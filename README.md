@@ -2,21 +2,11 @@
 
 Keyboard-driven Salesforce toolkit for developers and admins. Seven commands covering the most common org management, data access, and admin tasks, all without opening a browser.
 
-## Screenshots
-
-![QuickForce command list](./assets/screenshots/01-quickforce-command-list.png)
-![Manage org actions](./assets/screenshots/04-quickforce-manage-orgs-actions.png)
-![Search records actions](./assets/screenshots/08-quickforce-search-records-actions.png)
-![SOQL query form](./assets/screenshots/10-quickforce-run-soql-account-query.png)
-![SOQL results actions](./assets/screenshots/11-quickforce-soql-results-actions.png)
-![Create record types](./assets/screenshots/07-quickforce-create-record-types.png)
-![Setup quick access](./assets/screenshots/09-quickforce-setup-quick-access.png)
 
 ## Requirements
 
 - [Raycast](https://raycast.com/)
 - [Salesforce CLI](https://developer.salesforce.com/tools/salesforcecli) installed and authenticated with at least one org
-- Node.js and npm
 
 Verify your setup before installing:
 
@@ -26,16 +16,13 @@ sf org list auth
 
 If that returns your orgs, you're ready.
 
-Until QuickForce is available in the Raycast Store, install it locally from GitHub:
+To authenticate a new Salesforce org, run:
 
 ```bash
-git clone https://github.com/Kel-Antony/quickforce.git
-cd quickforce
-npm install
-npm run dev
+sf org login web
 ```
 
-Raycast will load QuickForce in development mode. afterwards QuickForce appears in Raycast
+QuickForce reads the orgs already authenticated through the Salesforce CLI. It does not ask for or store Salesforce passwords.
 
 ---
 

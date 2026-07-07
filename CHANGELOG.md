@@ -1,6 +1,6 @@
-# Salesforce Changelog
+# QuickForce Changelog
 
-## [Unreleased] - 2026-07-02
+## [Store Release] - {PR_MERGE_DATE}
 
 ### Changed
 - Renamed the extension from ForceCast to **QuickForce**.
