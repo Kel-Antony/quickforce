@@ -6,10 +6,11 @@ Keyboard-driven Salesforce toolkit for developers and admins. Seven commands cov
 
 ![QuickForce command list](./assets/screenshots/01-quickforce-command-list.png)
 ![Manage org actions](./assets/screenshots/04-quickforce-manage-orgs-actions.png)
-![Search records results](./assets/screenshots/09-quickforce-search-records-results.png)
-![Search records actions](./assets/screenshots/12-quickforce-search-records-actions.png)
+![Search records actions](./assets/screenshots/08-quickforce-search-records-actions.png)
+![SOQL query form](./assets/screenshots/10-quickforce-run-soql-account-query.png)
 ![SOQL results actions](./assets/screenshots/11-quickforce-soql-results-actions.png)
 ![Create record types](./assets/screenshots/07-quickforce-create-record-types.png)
+![Setup quick access](./assets/screenshots/09-quickforce-setup-quick-access.png)
 
 ## Requirements
 
