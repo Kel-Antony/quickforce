@@ -16,6 +16,7 @@ Keyboard-driven Salesforce toolkit for developers and admins. Seven commands cov
 
 - [Raycast](https://raycast.com/)
 - [Salesforce CLI](https://developer.salesforce.com/tools/salesforcecli) installed and authenticated with at least one org
+- Node.js and npm
 
 Verify your setup before installing:
 
@@ -24,6 +25,17 @@ sf org list auth
 ```
 
 If that returns your orgs, you're ready.
+
+Until QuickForce is available in the Raycast Store, install it locally from GitHub:
+
+```bash
+git clone https://github.com/Kel-Antony/quickforce.git
+cd quickforce
+npm install
+npm run dev
+```
+
+Raycast will load QuickForce in development mode. Keep the terminal running while you test the extension.
 
 ---
 
