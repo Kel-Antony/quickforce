@@ -35,7 +35,7 @@ npm install
 npm run dev
 ```
 
-Raycast will load QuickForce in development mode. Keep the terminal running while actively developing for hot reload and logs, or stop it after QuickForce appears in Raycast if you just want to use the extension locally.
+Raycast will load QuickForce in development mode. afterwards QuickForce appears in Raycast
 
 ---
 
