@@ -2,14 +2,6 @@
 
 Keyboard-driven Salesforce toolkit for developers and admins. Seven commands covering the most common org management, data access, and admin tasks, all without opening a browser.
 
-## Testing QuickForce
-
-Sharing QuickForce with a small test group? Start here:
-
-- [Tester setup guide](./TESTING.md)
-- [Demo and screenshot plan](./DEMO_SCRIPT.md)
-- [WhatsApp launch message](./WHATSAPP_MESSAGE.md)
-
 ## Screenshots
 
 ![QuickForce command list](./assets/screenshots/01-quickforce-command-list.png)
